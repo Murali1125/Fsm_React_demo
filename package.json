@@ -2,7 +2,8 @@
   "name": "demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://murali1125.github.io/ReactFSMExtOne/",
+  "description": "[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fsm-extension-sample)](https://api.reuse.software/info/github.com/SAP-samples/fsm-extension-sample)",
+  "homepage": "https://murali1125.github.io/Fsm_React_demo#index",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -38,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://murali1125.github.io/Fsm_React_demo.git"
   }
 }
