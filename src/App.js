@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header"> Hello Evora
         {/* <input placeholder="Enter name" /> */}
-        <img src=" https://murali1125.github.io/Fsm_React_demo/logo.svg" className="App-logo" alt="logo" />
+        <img src={"https://murali1125.github.io/Fsm_React_demo/logo.svg"} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
