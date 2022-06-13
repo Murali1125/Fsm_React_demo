@@ -1,7 +1,7 @@
 {
-    "name": "Service Contract",
+    "name": "FSM_React",
     "provider": "SAP FSM",
-    "description": "Sample extension to demo data fetch using a frontend only architecture",   
+    "description": "Sample extension to demo data using ReactJs",   
     "version": "1.0.0", 
-    "icon": "https://raw.githubusercontent.com/SAP-samples/fsm-extension-sample/refactor/samples/service-contract/icon.png"
+    "icon": "https://murali1125.github.io/Fsm_React_demo/evoraLogo.png"
   }
